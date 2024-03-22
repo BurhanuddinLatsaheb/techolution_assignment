@@ -27,7 +27,6 @@ A Library Management System that allows users to manage books, users, and book c
 ## Installation
 
 1. Clone the repository: `git clone https://github.com/your-username/library-management-system.git`
-2. Install dependencies: `pip install -r requirements.txt`
 
 ## Usage
 
