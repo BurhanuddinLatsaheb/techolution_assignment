@@ -10,15 +10,7 @@ A simple library management system implemented in Python.
 - [Usage](#usage)
 - [Project Structure](#project-structure)
 - [Dependencies](#dependencies)
-- [Testing](#testing)
-- [Deployment](#deployment)
-- [Built With](#built-with)
-- [Authors](#authors)
-- [Support](#support)
-- [Roadmap](#roadmap)
-- [Changelog](#changelog)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
+
 
 ## Description
 
@@ -51,45 +43,14 @@ A Library Management System that allows users to manage books, users, and book c
 - `check.py`: Contains the CheckManager class for managing book checkouts.
 - `storage.py`: Contains the Storage class for loading and saving data.
 - `requirements.txt`: List of dependencies.
-- `library_data.json`: JSON file to store book, user, and checkout data.
+- `book.json`: JSON file to store book data.
+- `user.json`: JSON file to store user data.
+- `check.json`: JSON file to store checkout data.
 
 ## Dependencies
 
 - Python (>=3.6)
 - dataclasses
 
-## Testing
 
-- Explain how to run the tests for your application, if applicable.
 
-## Deployment
-
-- Provide instructions on how to deploy your application in a production environment, if applicable.
-
-## Built With
-
-- List any major libraries/frameworks/tools used in your project.
-
-## Authors
-
-- List the authors or contributors of the project.
-
-## Support
-
-- Provide information on how users can get support for your project, such as a link to the issue tracker or support forum.
-
-## Roadmap
-
-- Outline future development plans for your project, including new features or improvements.
-
-## Changelog
-
-- Document the changes and updates to your project over time.
-
-## License
-
-- Include the license information for your project.
-
-## Acknowledgements
-
-- Thank any individuals, libraries, or resources that have helped or inspired your project.
