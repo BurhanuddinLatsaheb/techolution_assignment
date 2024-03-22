@@ -48,7 +48,7 @@ A Library Management System that allows users to manage books, users, and book c
 
 ## Dependencies
 
-- Python (>=3.6)
+- Python (>=3.10)
 - dataclasses
 
 
